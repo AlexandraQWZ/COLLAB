@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "190430541373",
+    "project_id": "jayamart-bdc5b",
+    "storage_bucket": "jayamart-bdc5b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190430541373:android:efb17cfe09be22f3e69c54",
+        "android_client_info": {
+          "package_name": "com.example.collab_mitra"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBb2GNsjplOzavWR6WJsVNAcZ0n0gYsmOo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
